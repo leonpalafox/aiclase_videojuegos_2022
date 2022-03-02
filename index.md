@@ -28,15 +28,15 @@ Los estudiantes serán capaces de implementar y validar diferentes técnicas de 
 
 ## Horas de clase
 
-Esta clase será Jueves de 4:00 pm a 7:00 pm
+Esta clase será Jueves de 7:00 pm a 10:00 pm
 
 ## Sitio web
 
-Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/aiclase_videojuegos/
+Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/aiclase_videojuegos_2022/
 
 ## Horas de oficina
 
-Estaré disponible en mi oficina (Ingenieria 24), o haciendo una cita al correo electrónico lpalafox@up.edu.mx. Les recomiendo mucho hacer una cita antes.
+Estaré disponible en mi oficina (Ingenieria 24), o haciendo una cita al correo electrónico lfpalafox@up.edu.mx. Les recomiendo mucho hacer una cita antes.
 
 # Evaluacion
 
@@ -61,41 +61,28 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Temario
 
 - Agentes
-	- Definición y Ejemplos
-	- Racionalidad
-	- Ambientes
-	- Tipos de Agentes
+  - Definición y Ejemplos
+  - Racionalidad
+  - Ambientes
+  - Tipos de Agentes
 
-- Aprendizaje Reeforzado (Reinforcement Learning)
-  - Definición y ejemplos
+
 
 # Slides
 
-- [Clase 1 - Introducción y Agentes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020.pptx)
-- [Clase 2 - Agentes y Racionalidad](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_2.pptx)
-- [Clase 3 - Ambientes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_3.pptx)
-- [Clase 4 - Agentes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_4.pptx)
-{% comment %}
-- [Clase 5 - Agentes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_5.pptx)
-- [Clase 6 - Estados](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_6.pptx)
-- [Clase 7 - Reinforcement Learning - Intro](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_7.pptx)
-- [Clase 8 - Reinforcement Learning - Intro](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_8.pptx)
-- [Clase 9 - Reinforcement Learning - Intro](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_9.pptx)
-- [Clase 10 - Reinforcement Learning - Funcion de Valor](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_10.pptx)
-- [Clase 11 - Reinforcement Learning - Aprendizaje Q](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_11.pptx)
-- [Clase 12 - Reinforcement Learning - Funciones Lineales](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_12.pptx)
-- [Clase 13 - Reinforcement Learning - Aproximación de Función de Valor](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_13.pptx)
-{% endcomment %}
+- [Clase 1 - Introduccion](https://github.com/leonpalafox/aiclase_videojuegos_2022/blob/master/Slides/UPML_Animacion_0_2022.pptx)
+- [Clase 2 - ML y Regresión Lineal](https://github.com/leonpalafox/aiclase_videojuegos_2022/blob/master/Slides/UPML_Animacion_1_2022.pptx)
+- [Clase 3 - Regresión Lineal](https://github.com/leonpalafox/aiclase_videojuegos_2022/blob/master/Slides/UPML_Animacion_2_2022.pptx)
 
 
-# Python Notebooks
+
+
+# Notas
 
 - [Auto Trader](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/code/MarketTrader.ipynb)
 - [Reinforcement Learning](https://drive.google.com/open?id=1BvRIgOhGJdy_YFrMeVC23FvLaQqdSxcp)
 - [Regresion Lineal](https://drive.google.com/open?id=11noDW9tfwc3TD4q6zWNivDycYLl71dn2)
 
-
-# Notas
 
 
 
@@ -111,5 +98,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Material especial para la clase
 
+Se require una computadora con Python instalado.
 
+# Politicas
 
+Se pueden utilizar teléfonos y bipers, siempre y cuando no molestén al resto del salón.
