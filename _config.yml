@@ -1,0 +1,9 @@
+title: Clase de Inteligencia Artificial aplicada a los Videojuegos
+logo: /images/escudo.jpg
+description: Clase de Inteligencia Artificial aplicada a los Videojuegos
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
